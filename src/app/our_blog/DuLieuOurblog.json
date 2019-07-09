@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "anh":"../images/3.jpg",
+        "tensanpham":"PIZZAMANIA FLAVOURS",
+        "noidung":"The one day when the lady met this fellow and they knew it was much more than a hunch the first mate and his Skipper too will do their comfortable all of them had hair of gold like their mother the youngest one in curls knight Rider a shadowy flight into the dangerous world of a man who does not exist now were up in the big leagues getting our turn at bat.",
+        "like":"25",
+        "comment":"20",
+        "month":"08",
+        "tendaubep":"GEORGE WILLAMS"
+    },
+    {
+        "id":2,
+        "anh":"../images/4.jpg",
+        "tensanpham":"DREAM CELEBRATIONS",
+        "noidung":"The one day when the lady met this fellow and they knew it was much more than a hunch the first mate and his Skipper too will do their comfortable all of them had hair of gold like their mother the youngest one in curls knight Rider a shadowy flight into the dangerous world of a man who does not exist now were up in the big leagues getting our turn at bat.",
+        "like":"13",
+        "comment":"14",
+        "month":"09",
+        "tendaubep":"GEORGE WILLAMS"
+    },
+
+    {
+        "id":3,
+        "anh":"../images/5.jpg",
+        "tensanpham":"CRUST WITH SPICY SAUCE",
+        "noidung":"The one day when the lady met this fellow and they knew it was much more than a hunch the first mate and his Skipper too will do their comfortable all of them had hair of gold like their mother the youngest one in curls knight Rider a shadowy flight into the dangerous world of a man who does not exist now were up in the big leagues getting our turn at bat.",
+        "like":"16",
+        "comment":"20",
+        "month":"11",
+        "tendaubep":"GEORGE WILLAMS"
+    },
+    
+    {
+        "id":4,
+        "anh":"../images/6.jpg",
+        "tensanpham":"PREPARATION OF PIZZA",
+        "noidung":"The one day when the lady met this fellow and they knew it was much more than a hunch the first mate and his Skipper too will do their comfortable all of them had hair of gold like their mother the youngest one in curls knight Rider a shadowy flight into the dangerous world of a man who does not exist now were up in the big leagues getting our turn at bat.",
+        "like":"22",
+        "comment":"15",
+        "month":"04",
+        "tendaubep":"GEORGE WILLAMS"
+    }
+]

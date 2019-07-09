@@ -1,0 +1,228 @@
+[
+    {
+        "id":0,
+        "tensanpham":"BURRATA",
+        "gia":"$22.00 – $27.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/33.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon1"
+    },
+
+    {
+        "id":1,
+        "tensanpham":"CALZONE",
+        "gia":"$22.00 - $16.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/28.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon2"
+        
+    },
+
+    {
+        "id":2,
+        "tensanpham":"GLUTE-FREE PIZZA",
+        "gia":"$19.00 – $24.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/29.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon3"
+
+    },
+
+    {
+        "id":3,
+        "tensanpham":"MOZARELLA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/30.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon4"
+        
+    },
+    {
+        "id":4,
+        "tensanpham":"PROSCIUTTO",
+        "gia":"$13.50 – $17.50",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/32.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon5"
+
+    },
+    {
+        "id":5,
+        "tensanpham":"MOZARELLA",
+        "gia":"$22.90-$17.80",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/31.png",
+        "danhMuc":"pizza",
+        "tenmon":"mon6"
+
+    },
+    {
+        "id":6,
+        "tensanpham":"GLUTEN-FREE PASTA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/14.png",
+        "danhMuc":"pizza"
+
+    },
+    {
+        "id":7,
+        "tensanpham":"QUATTRO FORMAGGI",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/12.png",
+        "danhMuc":"pizza"
+
+    },
+    {
+        "id":8,
+        "tensanpham":"GLUTEN-FREE PASTA",
+        "gia":"$14.30 – $18.45",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/25.png",
+        "danhMuc":"pasta"
+
+    },
+
+    {
+        "id":9,
+        "tensanpham":"VEGETARIAN PASTA",
+        "gia":"$14.00 – $18.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/26.png",
+        "danhMuc":"pasta"
+    },
+
+    {
+        "id":10,
+        "tensanpham":"BURRATA",
+        "gia":"$24.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/12.png",
+        "danhMuc":"pasta"
+    },
+
+    {
+        "id":11,
+        "tensanpham":"MOZARELLA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/42.png",
+        "danhMuc":"pasta"
+    },
+    {
+        "id":12,
+        "tensanpham":"PROSCIUTTO",
+        "gia":"$13.50 – $17.50",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/43.png",
+        "danhMuc":"pasta"
+    },
+    {
+        "id":13,
+        "tensanpham":"MOZARELLA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/15.png",
+        "danhMuc":"pasta"
+    },
+    {
+        "id":14,
+        "tensanpham":"GLUTEN-FREE PASTA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/14.png",
+        "danhMuc":"pasta"
+    }, {
+        "id":15,
+        "tensanpham":"VEGETARIAN PASTA",
+        "gia":"$14.00 – $18.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/25.png",
+        "danhMuc":"salad"
+    },
+    {
+        "id":16,
+        "tensanpham":"MOZARELLA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/26.png",
+        "danhMuc":"salad"
+    },
+    {
+        "id":17,
+        "tensanpham":"GLUTEN-FREE PASTA",
+        "gia":"$13.50 – $17.50",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/12.png",
+        "danhMuc":"salad"
+    },
+    {
+        "id":18,
+        "tensanpham":"PROSCIUTTO",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/42.png",
+        "danhMuc":"salad"
+    },
+    {
+        "id":19,
+        "tensanpham":"STRAWBERRY MIX",
+        "gia":"$25",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/44.png",
+        "danhMuc":"drink"
+    },
+    {
+        "id":20,
+        "tensanpham":"BLUEBERRY FLAVOUR",
+        "gia":"$15.00 ",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/45.png",
+        "danhMuc":"drink"
+    },
+    {
+        "id":21,
+        "tensanpham":"MOZARELLA",
+        "gia":" $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/46.png",
+        "danhMuc":"drink"
+    }, {
+        "id":22,
+        "tensanpham":"ORANGE MIX",
+        "gia":"$4.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/47.png",
+        "danhMuc":"drink"
+    },
+    {
+        "id":23,
+        "tensanpham":"VEGETABLE DRINK",
+        "gia":"$6.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/48.png",
+        "danhMuc":"drink"
+    },
+    {
+        "id":24,
+        "tensanpham":"BERRYMIX SHAKE",
+        "gia":"$13.50",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/49.png",
+        "danhMuc":"drink"
+    },
+    {
+        "id":25,
+        "tensanpham":"FRUIT MIX SHAKE",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/50.png",
+        "danhMuc":"drink"
+    }
+]

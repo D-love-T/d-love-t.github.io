@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="042ef403-60c0-4aa4-a12d-bf5db48233d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/61-product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avtar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avtar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avtar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/clients-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/delivery-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/orderform-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/process-bottom-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/process-top-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slide_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slide_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slide_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/CheckOut/CheckOut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwoBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwoTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/DuLieuOder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/DulieuHome.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/FeelBack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/HomeComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/MainFive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/MainFour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/MainThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/OurMenu/OurMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/OurMenu/OurMenuListCenter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/SlideTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/redux/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Home/redux/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/ProductDetail/ProductDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Yourcart/YourCartContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/Yourcart/Yourcart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentFive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentFour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentSix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/about us/ContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/ContentOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/ContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/DishPizzas/DishItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/Drink/Drink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/Drink/DrinkItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/Dulieu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/ListDish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/redux/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/menu/redux/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/DuLieuOurblog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoLeft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoLeftItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoRight/ContentTwoRightListPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoRight/ContentTwoRightTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoRight/CotentTwoRightDish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoRight/DulieuPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_blog/OurBlogContentTwoRight/OurBlogContentTwoRight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServicesContentFour.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServicesContentOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServicesContentThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServicesContentTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/our_services/OurServiesContentTwoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/about-us.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/checkout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/contact-us.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/layouts/our-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/our-blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/our-services.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/product-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/yourcart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/61-product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/avtar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/avtar-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/avtar-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/blog-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/clients-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/delivery-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/orderform-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/process-bottom-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/process-top-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/slide_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/slide_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/slide_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/DancingScript-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/DancingScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/Yellowtail-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webfonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/Dieuhuong.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/Dieuhuong.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoBottom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoTop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/menu/Drink/DrinkItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/assets/Home/redux/reducer.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/redux/store.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/FeelBack.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/HomeComponent.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/MainFive.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/MainFour.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/MainThree.js" />
+        <option value="$PROJECT_DIR$/src/assets/Home/SlideTop.js" />
+        <option value="$PROJECT_DIR$/src/redux/store.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers.js" />
+        <option value="$PROJECT_DIR$/src/app/Home/redux/reducer.js" />
+        <option value="$PROJECT_DIR$/src/app/Home/redux/action.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/app/Home/SlideTop.js" />
+        <option value="$PROJECT_DIR$/src/app/Home/HomeComponent.js" />
+        <option value="$PROJECT_DIR$/src/app/menu/ListDish.js" />
+        <option value="$PROJECT_DIR$/src/router/Dieuhuong.js" />
+        <option value="$PROJECT_DIR$/src/app/menu/DishPizzas/DishItem.js" />
+        <option value="$PROJECT_DIR$/src/app/menu/Drink/DrinkItem.js" />
+        <option value="$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwo.js" />
+        <option value="$PROJECT_DIR$/src/app/Home/OurMenu/OurMenuListCenter.js" />
+        <option value="$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoBottom.js" />
+        <option value="$PROJECT_DIR$/src/app/ProductDetail/ProductDetail.js" />
+        <option value="$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoTop.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/react-pizza.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="1612" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-pizza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-pizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-pizza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-pizza" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-pizza" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-pizza" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bai tap vntrip/bai tap vntrip/pizza ĐT" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thanh Dat\Desktop\react-pizza\src\assets" />
+      <recent name="C:\Users\Thanh Dat\Desktop\react-pizza\public" />
+      <recent name="C:\Users\Thanh Dat\Desktop\react-pizza\src\app\Home\OurMenu" />
+      <recent name="C:\Users\Thanh Dat\Desktop\react-pizza\src\app" />
+      <recent name="C:\Users\Thanh Dat\Desktop\react-pizza\src\app\Home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="042ef403-60c0-4aa4-a12d-bf5db48233d6" name="Default Changelist" comment="" />
+      <created>1562660656894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562660656894</updated>
+      <workItem from="1562660658360" duration="5901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1612" height="867" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32833788" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/redux/reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/FeelBack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/MainFive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/MainFour.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/MainThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/SlideTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/Home/HomeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/layouts/our-menu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/common/Nav.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/our_blog/OurBlog.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/about us/AboutUs.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/DuLieuOder.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/DulieuHome.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/CheckOut/CheckOut.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Yourcart/Yourcart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/our_services/OurServicesContentFour.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/our_services/OurServices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/SlideTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/redux/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/redux/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/HomeComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/menu/ListDish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/menu/DishPizzas/DishItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/OurMenu/OurMenuListCenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Home/OurMenu/OurMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/CheckOut/CheckOutContentTwoBottom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/menu/Drink/Drink.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/menu/Drink/DrinkItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/Dieuhuong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoBottom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductContentTwoTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/ProductDetail/ProductDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

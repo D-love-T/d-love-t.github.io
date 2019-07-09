@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "tensanpham":"BURRATA",
+        "gia":"$22.00 – $27.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/33.png",
+        "danhMuc":"mon1"
+    },
+
+    {
+        "id":2,
+        "tensanpham":"CALZONE",
+        "gia":"$22.00 - $16.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/28.png",
+        "danhMuc":"mon2"
+        
+    },
+
+    {
+        "id":3,
+        "tensanpham":"GLUTE-FREE PIZZA",
+        "gia":"$19.00 – $24.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/29.png",
+        "danhMuc":"mon3"
+
+    },
+
+    {
+        "id":4,
+        "tensanpham":"MOZARELLA",
+        "gia":"$15.00 – $19.00",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/30.png",
+        "danhMuc":"mon4"
+
+    },
+    {
+        "id":5,
+        "tensanpham":"PROSCIUTTO",
+        "gia":"$13.50 – $17.50",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/32.png",
+        "danhMuc":"mon5"
+
+    },
+    {
+        "id":6,
+        "tensanpham":"MOZARELLA",
+        "gia":"$22.90-$17.80",
+        "noiDung": "Integer vitae enim vel nisi feugiat ultricies. Phasellus...",
+        "anh":"../images/31.png",
+        "danhMuc":"mon6"
+
+    }
+]
